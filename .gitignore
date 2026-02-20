@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+venv/
+.venv/
+
+# Ignore large video files (common formats)
+*.mp4
+*.avi
+*.mov
+
+# Ignore temporary python files
+__pycache__/
+*.pyc
