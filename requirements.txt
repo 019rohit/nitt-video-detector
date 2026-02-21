@@ -1,4 +1,7 @@
 streamlit==1.31.0
 opencv-python-headless==4.9.0.80
+scikit-image==0.22.0
 pandas==2.2.0
 numpy==1.26.4
+plotly==6.5.2
+torch==2.10.0
