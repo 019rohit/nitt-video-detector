@@ -1,6 +1,6 @@
 # 📺 Video Temporal Error Detector
 
-**NITT Hackathon Submission | Developed by Rohit**
+**NITT Hackathon Submission | Developed by Quadcore Team(Rohit, Deepak, Amit, Sunny)**
 
 This project is a high-speed system designed to detect and classify temporal inconsistencies in video streams. It identifies exactly where encoding or transmission failures occurred by analyzing **Motion Consistency** across consecutive frames.
 
